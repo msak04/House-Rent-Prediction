@@ -1,0 +1,23 @@
+Course: CSE 445 
+Section:1
+Project Title: Predict the Rent of House in Dhaka City by Applying Machine Learning Techniques
+
+Member 1:
+Name:	Md. Saif Ahammod Khan
+Id: 	1721779042
+Email:	saif.ahammod@gmail.com
+Number:	01917089109
+
+Member 2:
+Name:	Rasheeq Ishmam
+Id: 	1831350042
+Email:	rasheeq.ishmam@northsouth.edu 
+Number:	01302560964
+
+Member 3:
+Name:	S. M. Sajid Hasan Shanta
+Id: 	1831238642
+Email:	sajid.shanta@northsouth.edu
+Number:	01791287613
+
+
